@@ -56,6 +56,42 @@ Three machine learning models are evaluated for diamond price prediction:
 
 The models are trained and tested, and their performance is evaluated using Root Mean Square Error (RMSE).
 
+## Data Visualisations and PowerBI Report View
+## Data Visualization
+
+Explore the visualizations that provide insights into the diamond dataset.
+
+### Correlation Heatmap
+
+A heatmap is generated to visualize the correlations between different diamond attributes.
+
+![Correlation Heatmap](images/diamond_Viz4)
+![Heatmap](images/diamond_Viz1)
+
+### Feature Importance
+
+The feature importance analysis using the Extra Trees Regressor helps identify the most influential attributes for diamond price prediction.
+
+![Feature Importance](images/diamond_Viz3)
+
+### Scatter Plot
+
+A scatter plot demonstrates the predicted prices against the actual prices for different diamonds.
+
+![Scatter Plot](images/diamond_Viz2.png)
+
+### Power BI Dashboard
+
+A Power BI dashboard report enhances data exploration and interactivity. The dashboard includes visualizations for various attributes and their impact on diamond prices.
+
+![Power BI Dashboard](images/Power_BI_Report_View.png)
+
+**Power BI Dashboard Description:**
+
+The Power BI dashboard showcases a comprehensive report on diamond attributes and their correlation with prices. It includes interactive charts, scatter plots, and filters that allow users to explore different subsets of data. The report provides insights into how attributes like carat, cut, color, and clarity influence diamond prices.
+
+
+
 ## Results and Conclusion
 
 The RMSE values for each model are compared to evaluate their prediction accuracy. Feature importance is also assessed using the Extra Trees Regressor. The best-performing model is determined based on the lowest RMSE.
