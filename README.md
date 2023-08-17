@@ -14,7 +14,7 @@ This project focuses on predicting diamond prices using different machine-learni
 - [Model Evaluation](#model-evaluation)
 - [Results and Conclusion](#results-and-conclusion)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
@@ -25,6 +25,7 @@ Diamonds are valued based on various attributes, and predicting their prices acc
 - Python (version 3.11.4)
 - Jupyter Notebook (for running Python scripts)
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `seaborn`, `matplotlib`
+- PowerBI Desktop (version 2.119.986.0) (for viewing the report and interacting with the model)
 
 ## Dataset
 
